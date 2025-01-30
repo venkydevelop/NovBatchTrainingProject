@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "726677962993",
+    "project_id": "novtrainingproject",
+    "storage_bucket": "novtrainingproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726677962993:android:8a7e28db28cfa2d16be950",
+        "android_client_info": {
+          "package_name": "com.androbim.nov_training_session"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726677962993-0lq06j3rv3job859akpl2gtaralbnbcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androbim.nov_training_session",
+            "certificate_hash": "f98b99d563a0d8be251018d8ef1df2a24979ce20"
+          }
+        },
+        {
+          "client_id": "726677962993-7c8kc2kbkjknu7e1g2ij6f9aff4bb7c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-z8rFsgMgTM9lJle2PWwgoQs8JWdVXCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726677962993-7c8kc2kbkjknu7e1g2ij6f9aff4bb7c6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726677962993-7qelv69p0mipuo1ocjfe39397m3hs4vl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.androbim.novTrainingSession"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

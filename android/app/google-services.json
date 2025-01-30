@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726677962993",
+    "project_id": "novtrainingproject",
+    "storage_bucket": "novtrainingproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726677962993:android:8a7e28db28cfa2d16be950",
+        "android_client_info": {
+          "package_name": "com.androbim.nov_training_session"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-z8rFsgMgTM9lJle2PWwgoQs8JWdVXCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
