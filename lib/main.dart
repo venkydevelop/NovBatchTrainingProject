@@ -2,7 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nov_training_session/firebase/firebase_fire_store_page.dart';
-import 'package:nov_training_session/firebase/firebase_notification.dart';
+import 'package:nov_training_session/firebase/service/firebase_notification.dart';
 
 import 'firebase/service/firebase_options.dart';
 

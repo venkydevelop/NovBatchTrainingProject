@@ -32,7 +32,7 @@ class TopTabBarPage extends StatelessWidget {
                       borderRadius: BorderRadius.circular(8),
                       border: Border.all(color: Colors.green)),
                   splashFactory: NoSplash.splashFactory,
-                  tabs: [
+                  tabs: const [
                     Tab(
                       icon: Icon(Icons.home, size: 22),
                       text: "Home",
